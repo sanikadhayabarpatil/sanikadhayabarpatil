@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![Sanika's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanikadhayabarpatil)](https://github.com/sanikadhayabarpatil/github-readme-stats)
 <!--
 **sanikadhayabarpatil/sanikadhayabarpatil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
