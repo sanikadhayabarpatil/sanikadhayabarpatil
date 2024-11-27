@@ -35,38 +35,32 @@ Hey there! 👋 I'm **Sanika**—part tech geek, part creative dreamer, and 100%
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" />
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" />
   <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow" />
-  <img src="https://img.icons8.com/color/48/000000/pytorch.png" alt="PyTorch" />
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" />
-  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="SQL" />
-  <img src="https://img.icons8.com/color/48/000000/r-programming.png" alt="R Programming" />
+  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="SQL" /> 
 </p>
 
 ---
 
 ## 🚀 **Projects**
 ### 🖼️ **Advanced Image Captioning**
-![Image Captioning](https://miro.medium.com/max/1400/1*e1MLvYL-sqckWX4pRt2COw.png)
 - **Tech Stack**: CNN, RNN, TensorFlow, VGG-16, Inception v3  
 - Created a system that generates captions for images with **75% accuracy**.
 
 ---
 
 ### 🎶 **Music Lyrics Generation**
-![Music Lyrics](https://miro.medium.com/max/1400/1*ue7W7IGG8ns_Wxwsq8n9jw.png)
 - **Tech Stack**: GPT-3 API, Transformers, Text Processing  
 - Developed an AI to generate song lyrics dynamically based on user input.
 
 ---
 
 ### 🛒 **Machine Learning for Walmart**
-![Walmart Data](https://miro.medium.com/max/1400/1*zRvmfA9yb7QEqAfK9X5-cw.png)
 - **Tech Stack**: Linear Regression, Bayesian Methods, Scikit-learn  
 - Modeled dependencies affecting sales, achieving **0% prediction loss**.
 
 ---
 
 ### 👁️ **Diabetic Retinopathy Detection**
-![Diabetic Retinopathy](https://miro.medium.com/max/1400/1*YQcojpZ6KzWiYAZiFX7ltw.png)
 - **Tech Stack**: K-means Clustering, Gabor Filters, OpenCV  
 - Built a model with **92.4% accuracy**, featured in an international journal.
 
