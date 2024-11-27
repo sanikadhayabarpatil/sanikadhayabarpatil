@@ -17,11 +17,10 @@
 ## 🎯 About Me  
 Hey there! 👋 I'm **Sanika**—part tech geek, part creative dreamer, and 100% passionate about everything I do. While I spend my days diving into **AI, Machine Learning, and Data Science**, life gets truly exciting when I’m exploring the things I love. Here’s a sneak peek into my world:
 
-- 💃 **Dancing Queen**: Trained in the graceful **Bharatnatyam dance form**, I’m happiest when I’m twirling to beats that connect tradition and art.  
-- 🌊 **Water Baby**: Whether it’s swimming or just chilling near a water body, the calmness of water makes me feel like I’ve hit the zen jackpot. 🧘‍♀️  
-- 🎨 **Arts & Doodles**: Got free time? You’ll probably find me with a paintbrush or sketchpad, creating something random but oh-so-satisfying! 🎨✨  
-- 🍕 **Foodie Alert**: Trying out different cuisines is my jam. From sushi to street food, I’m always on a flavor adventure (and yes, dessert comes first 🧁).  
-
+- 💃 **Creative Soul**: A trained Bharatnatyam dancer who finds joy in rhythm and grace.  
+- 🌊 **Water Baby**: Swimming keeps me calm and helps me stay centered—water is my happy place!  
+- 🎨 **Art Enthusiast**: When I’m not coding, I’m painting, sketching, or trying out new cuisines. 🍕
+  
 ✨ I believe life is about striking the perfect balance—between logic and creativity, tech and art, and work and play. Let’s make it fun, shall we? 🚀
 
 ## 📫 How to Reach Me
