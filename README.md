@@ -1,12 +1,6 @@
 <h1 align="center">✨ Welcome to My World! I'm <span style="color: #ff69b4;">Sanika Dhayabar Patil</span> ✨</h1>
 
 <p align="center">
-  <a href="https://giphy.com/gifs/content-jasper-ai-5k5vZwRFZR5aZeniqb" target="_blank">
-    <img src="https://media.giphy.com/media/5k5vZwRFZR5aZeniqb/giphy.gif" alt="GIF from GIPHY" width="400">
-  </a>
-</p>
-
-<p align="center">
   🎓 Master's Student in Information Systems @ Northeastern University, Boston <br>
   🌍 Based in Boston, MA | 🌐 Multilingual (English & French Certified) <br>
   🚀 AI/ML Enthusiast | 🖼️ Computer Vision Fanatic | 📊 Data Wizard in the Making <br>
@@ -14,12 +8,28 @@
 
 ---
 
-## 🎯 About Me  
-Hi there! 👋 **I’m Sanika**, a curious mind with a strong passion for **AI, Machine Learning, and Data Science**. I thrive on transforming complex ideas into intelligent solutions and exploring cutting-edge technologies like **Computer Vision**. For me, innovation is not just about solving problems but finding creative ways to improve the world around us.
-
-Outside of tech, I dive deep into my personal passions that keep me energized and inspired. 💃 As a trained **Bharatnatyam dancer**, I embrace the rhythm and grace of every move. 🌊 **Swimming** helps me find calm and balance, my sanctuary to recharge. 🎨 When **creativity strikes**, I express myself through painting, sketching, or even experimenting with new cuisines 🍕—a mix of flavors, colors, and endless fun!
-
-✨ Balancing tech with art and logic with creativity is what drives me every day! 🚀
+<table>
+  <tr>
+    <td>
+      <h2>🎯 About Me</h2>
+      <p>
+        Hi there! 👋 I’m <strong>Sanika</strong>, a curious mind with a strong passion for <strong>AI, Machine Learning, and Data Science</strong>. 
+        I thrive on transforming complex ideas into intelligent solutions and exploring cutting-edge technologies like <strong>Computer Vision</strong>. 
+        For me, innovation is not just about solving problems but finding creative ways to improve the world around us.
+      </p>
+      <p>
+        Outside of tech, I dive deep into my personal passions that keep me energized and inspired. 💃 As a trained <strong>Bharatanatyam dancer</strong>, 
+        I embrace the rhythm and grace of every move. 🌊 <strong>Swimming</strong> helps me find calm and balance, my sanctuary to recharge. 🎨 
+        When creativity strikes, I express myself through <strong>painting, sketching</strong>, or even experimenting with new cuisines 🍕—a mix of flavors, colors, and endless fun!
+      </p>
+      <p>
+        ✨ <em>Balancing tech with art and logic with creativity is what drives me every day!</em> 🚀
+      </p>
+    </td>
+    <td>
+       <img src="https://media.giphy.com/media/5k5vZwRFZR5aZeniqb/giphy.gif" alt="GIF from GIPHY" width="400">
+  </tr>
+</table>
 
 ---
 
