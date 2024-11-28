@@ -15,13 +15,14 @@
 ---
 
 ## 🎯 About Me  
-Hey there! 👋 I'm **Sanika**—part tech geek, part creative dreamer, and 100% passionate about everything I do. While I spend my days diving into **AI, Machine Learning, and Data Science**, life gets truly exciting when I’m exploring the things I love. Here’s a sneak peek into my world:
+Hi there! 👋 **I’m Sanika**, a curious mind with a strong passion for **AI, Machine Learning, and Data Science**. I thrive on transforming complex ideas into intelligent solutions and exploring cutting-edge technologies like **Computer Vision**. For me, innovation is not just about solving problems but finding creative ways to improve the world around us.
 
-- 💃 **Creative Soul**: A trained Bharatnatyam dancer who finds joy in rhythm and grace.  
-- 🌊 **Water Baby**: Swimming keeps me calm and helps me stay centered—water is my happy place!  
-- 🎨 **Art Enthusiast**: When I’m not coding, I’m painting, sketching, or trying out new cuisines. 🍕
-  
-✨ I believe life is about striking the perfect balance—between logic and creativity, tech and art, and work and play. Let’s make it fun, shall we? 🚀
+Outside of tech, I dive deep into my personal passions that keep me energized and inspired. 💃 As a trained **Bharatnatyam dancer**, I embrace the rhythm and grace of every move. 🌊 **Swimming** helps me find calm and balance, my sanctuary to recharge. 🎨 When **creativity strikes**, I express myself through painting, sketching, or even experimenting with new cuisines 🍕—a mix of flavors, colors, and endless fun!
+
+✨ Balancing tech with art and logic with creativity is what drives me every day! 🚀
+
+---
+
 
 ## 📫 How to Reach Me
 - Email: [sanika@reachme.com](mailto:sanikadhayabar@gmail.com)
@@ -29,57 +30,41 @@ Hey there! 👋 I'm **Sanika**—part tech geek, part creative dreamer, and 100%
 
 ---
 
-## 💻 **My Tech Arsenal**
-<p align="center">
-  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" />
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" />
-  <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow" />
-  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" />
-  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="SQL" /> 
-</p>
+## 🛠️ Skills & Tech Arsenal  
+### 🧑‍💻 Programming & Scripting  
+- **Python** 🐍 | **Java** ☕ | **R** | **SQL**  
+---
+
+### 🤖 Machine Learning & AI  
+**CNN & RNN** | **GPT-3 API & Transformers** | **TensorFlow**
+
+**Scikit-learn** | **VGG-16 & Inception v3** | **K-means Clustering & Gabor Filters**  
 
 ---
 
-## 🚀 **Projects**
-### 🖼️ **Advanced Image Captioning**
-- **Tech Stack**: CNN, RNN, TensorFlow, VGG-16, Inception v3  
-- Created a system that generates captions for images with **75% accuracy**.
+### 📊 Data Processing & Visualization  
+ **OpenCV** | **Text Processing**  
+ **Bayesian Methods** | **Linear Regression**  
 
 ---
 
-### 🎶 **Music Lyrics Generation**
-- **Tech Stack**: GPT-3 API, Transformers, Text Processing  
-- Developed an AI to generate song lyrics dynamically based on user input.
+### 🛠️ Development & Tools  
+ **Git & GitHub**  
+ **Ethical AI Models**  
+ **Strategic Business Analysis**  
+
 
 ---
 
-### 🛒 **Machine Learning for Walmart**
-- **Tech Stack**: Linear Regression, Bayesian Methods, Scikit-learn  
-- Modeled dependencies affecting sales, achieving **0% prediction loss**.
+## 🔥 What Fuels My Fire?  
 
----
+I’m driven by a deep **curiosity** to explore and create. *Learning new things* is my ultimate fuel—it keeps me energized and always ready to tackle the next challenge. Being **multilingual** adds an exciting layer to my interactions, making collaboration dynamic and diverse.  
 
-### 👁️ **Diabetic Retinopathy Detection**
-- **Tech Stack**: K-means Clustering, Gabor Filters, OpenCV  
-- Built a model with **92.4% accuracy**, featured in an international journal.
-
----
-
-## 🌟 **Experience**
-- **Java Software Engineer @ iSynergy TechSys Pvt. Ltd.**
-  - Enhanced AI-powered Java solutions, boosting performance by **70%**.  
-- **NLP Researcher @ FutureSmart AI**
-  - Created NLP models ensuring fairness, transparency, and ethical AI.
-- **Business Development Analyst @ Parag Milk Foods**
-  - Boosted **sales by 13%** and **customer growth by 30%** through product innovation and strategic marketing.
+When I’m not diving into the world of **AI and Machine Learning**, you’ll find me at the **gym**, *pushing my limits*, or unwinding in the water because *swimming is my happy place*. **Bharatanatyam dance** brings rhythm and grace to my life, while **painting and sketching** help me express creativity in vibrant ways. Oh, and *trying out new cuisines*? That’s where my love for **culture and adventure** comes together on a plate. 🌟 
 
 ---
 
 ## 🌈 **Let’s Connect!**
-<p align="center">
-  <a href="[https://www.linkedin.com/in/sanika-dhayabar-patil/](https://www.linkedin.com/in/sanika-dhayabar-patil/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:sanikadhaybar@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
 
 ---
 
